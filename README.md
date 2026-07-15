@@ -25,7 +25,7 @@ Actualmente cursando mis estudios en Valladolid, interesado en IT y desarrollo d
 ## 📊 Mi Actividad
 
 <div align="center">
-  <img src="https://github-stats-extended-frontend-7dei.vercel.app/api/stats?username=edgsant&show_icons=true&theme=radical" alt="Estadísticas de Edgar" />
+  <img src="https://github-stats-extended-frontend-7dei.vercel.app/api?username=edgsant&show_icons=true&theme=radical" alt="Estadísticas de Edgar" />
   <img src="https://github-stats-extended-frontend-7dei.vercel.app/api/top-langs?username=edgsant&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
@@ -40,6 +40,6 @@ Actualmente cursando mis estudios en Valladolid, interesado en IT y desarrollo d
 
 ### Mis estadísticas de GitHub
 
-![Estadísticas](https://github-stats-extended-frontend-7dei.vercel.app/api/stats?username=edgsant&show_icons=true)
+![Estadísticas](https://github-stats-extended-frontend-7dei.vercel.app/api?username=edgsant&show_icons=true&theme=radical)
 
 ![Lenguajes más usados](https://github-stats-extended-frontend-7dei.vercel.app/api/top-langs/?username=edgsant&layout=compact&theme=radical)
