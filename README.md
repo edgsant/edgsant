@@ -36,6 +36,7 @@ Aquí destaco algunos de mis trabajos más representativos, abarcando desde arqu
 | 🃏 **[Card Partner TCG Platform](https://github.com/edgsant/CardPartner-TCG-Platform)** | Aplicación web para un juego de cartas coleccionables. Diseño orientado a objetos y gestión de base de datos. | `Java`, `MySQL` |
 | ⚔️ **[Minieval Warfare](https://github.com/edgsant/Minieval_Warfare-UnityGame)** | Videojuego desarrollado de cero como proyecto universitario. Programación de mecánicas, físicas e interfaz. | `Unity`, `C#` |
 | 🏥 **[Clinic Management API](https://github.com/edgsant/Hexagonal_Arquitecture-Clinic_Management)** | Sistema de gestión de clínicas implementando Arquitectura Hexagonal y principios SOLID para máxima escalabilidad. | `Python` |
+| 🛡️ **[OAuth2 EDR & Load Testing (ESI)](https://github.com/ALVPI/ESI)** | Monitorización avanzada EDR y pruebas de carga sobre un servidor OAuth2. Uso de PromQL para dashboards en Grafana y simulación de tráfico/ataques. | `Python`, `Prometheus`, `Grafana`, `Locust` |
 
 *(Siéntete libre de explorar mis otros repositorios para ver mis scripts de bash, configuraciones de sistemas o apuntes).*
 
